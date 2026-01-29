@@ -1,1 +1,1 @@
-[App Preview](./preview.gif)
+![App Preview](./preview.gif)
